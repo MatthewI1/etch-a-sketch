@@ -1,0 +1,22 @@
+.box {
+    flex-basis: 100px;
+
+}
+
+.row {
+    display: flex;
+    flex-basis: 100px;
+
+}
+
+.filled {
+    background-color: green;
+}
+
+#container {
+    display:flex;
+    flex-direction: column;
+    width: 50vw;
+    height: 50vw;
+    margin: auto;
+}
